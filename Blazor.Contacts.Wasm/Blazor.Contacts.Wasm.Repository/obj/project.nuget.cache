@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjaSdSmmDOiBMrrNowGZaeHHZxgFlmmqSFpm171cv6KKCN7qQ1tiI9lRjdY7bROiz1X8ZJm6ARBRMq+mU17CWw==",
+  "success": true,
+  "projectFilePath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbp_1\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

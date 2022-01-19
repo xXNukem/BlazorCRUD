@@ -1,0 +1,12 @@
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net6.0\Blazor.Contacts.Wasm.Shared.deps.json
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net6.0\Blazor.Contacts.Wasm.Shared.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net6.0\ref\Blazor.Contacts.Wasm.Shared.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net6.0\Blazor.Contacts.Wasm.Shared.pdb
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.csproj.AssemblyReference.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.AssemblyInfoInputs.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.AssemblyInfo.cs
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.csproj.CoreCompileInputs.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\ref\Blazor.Contacts.Wasm.Shared.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net6.0\Blazor.Contacts.Wasm.Shared.pdb

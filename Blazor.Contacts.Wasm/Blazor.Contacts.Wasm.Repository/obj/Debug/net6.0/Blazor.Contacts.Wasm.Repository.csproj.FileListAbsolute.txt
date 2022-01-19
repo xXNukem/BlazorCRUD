@@ -1,0 +1,15 @@
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\Blazor.Contacts.Wasm.Repository.deps.json
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\Blazor.Contacts.Wasm.Repository.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\ref\Blazor.Contacts.Wasm.Repository.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\Blazor.Contacts.Wasm.Repository.pdb
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.csproj.AssemblyReference.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.GeneratedMSBuildEditorConfig.editorconfig
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.AssemblyInfoInputs.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.AssemblyInfo.cs
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.csproj.CoreCompileInputs.cache
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\ref\Blazor.Contacts.Wasm.Repository.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.pdb
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\Blazor.Contacts.Wasm.Shared.dll
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\bin\Debug\net6.0\Blazor.Contacts.Wasm.Shared.pdb
+H:\REPOSITORIES\Blazor\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm.Repository\obj\Debug\net6.0\Blazor.Contacts.Wasm.Repository.csproj.CopyComplete

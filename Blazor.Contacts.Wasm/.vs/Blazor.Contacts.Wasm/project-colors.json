@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2774a739-ce23-4149-8e8f-fbed5a001fc7": {
+      "ProjectGuid": "2774a739-ce23-4149-8e8f-fbed5a001fc7",
+      "DisplayName": "Blazor.Contacts.Wasm.Server",
+      "ColorIndex": 0
+    },
+    "0d7a35ab-4c2a-43f8-a21b-b8e8c11a116d": {
+      "ProjectGuid": "0d7a35ab-4c2a-43f8-a21b-b8e8c11a116d",
+      "DisplayName": "Blazor.Contacts.Wasm.Client",
+      "ColorIndex": 1
+    },
+    "2bfd41f5-4d44-4e40-97c7-2287f3a7cb8c": {
+      "ProjectGuid": "2bfd41f5-4d44-4e40-97c7-2287f3a7cb8c",
+      "DisplayName": "Blazor.Contacts.Wasm.Shared",
+      "ColorIndex": 2
+    },
+    "3afb1e5b-6f97-449c-b48e-401eab066428": {
+      "ProjectGuid": "3afb1e5b-6f97-449c-b48e-401eab066428",
+      "DisplayName": "Blazor.Contacts.Wasm.Repository",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

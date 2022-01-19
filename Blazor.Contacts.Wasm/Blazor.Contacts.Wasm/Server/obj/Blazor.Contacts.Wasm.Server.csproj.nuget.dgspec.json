@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Server\\Blazor.Contacts.Wasm.Server.csproj": {}
+  },
+  "projects": {
+    "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj",
+        "projectName": "Blazor.Contacts.Wasm.Repository",
+        "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj",
+        "packagesPath": "C:\\Users\\cbp_1\\.nuget\\packages\\",
+        "outputPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cbp_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj": {
+                "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj",
+        "projectName": "Blazor.Contacts.Wasm.Client",
+        "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj",
+        "packagesPath": "C:\\Users\\cbp_1\\.nuget\\packages\\",
+        "outputPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cbp_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj": {
+                "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[3.14.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Server\\Blazor.Contacts.Wasm.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Server\\Blazor.Contacts.Wasm.Server.csproj",
+        "projectName": "Blazor.Contacts.Wasm.Server",
+        "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Server\\Blazor.Contacts.Wasm.Server.csproj",
+        "packagesPath": "C:\\Users\\cbp_1\\.nuget\\packages\\",
+        "outputPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cbp_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj": {
+                "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm.Repository\\Blazor.Contacts.Wasm.Repository.csproj"
+              },
+              "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj": {
+                "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Client\\Blazor.Contacts.Wasm.Client.csproj"
+              },
+              "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj": {
+                "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj",
+        "projectName": "Blazor.Contacts.Wasm.Shared",
+        "projectPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\Blazor.Contacts.Wasm.Shared.csproj",
+        "packagesPath": "C:\\Users\\cbp_1\\.nuget\\packages\\",
+        "outputPath": "H:\\REPOSITORIES\\Blazor\\Blazor.Contacts.Wasm\\Blazor.Contacts.Wasm\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cbp_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

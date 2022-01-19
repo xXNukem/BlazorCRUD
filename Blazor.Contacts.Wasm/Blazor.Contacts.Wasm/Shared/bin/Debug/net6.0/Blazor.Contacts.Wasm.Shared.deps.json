@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Blazor.Contacts.Wasm.Shared/1.0.0": {
+        "runtime": {
+          "Blazor.Contacts.Wasm.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blazor.Contacts.Wasm.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
